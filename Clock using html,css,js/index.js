@@ -1,6 +1,4 @@
-/*window.addEventListener("load",function(){
-    var second=document.getElementById['second']
-})*/
+
 setInterval(() => {
   d = new Date();
   htime = d.getHours();
